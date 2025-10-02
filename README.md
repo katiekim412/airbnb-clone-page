@@ -31,15 +31,12 @@
 
 ---
 
-## 📂 프로젝트 구조
-📦 airbnb-clone
-┣ 📜 index.html # 메인 페이지
-┣ 📜 index.css # 스타일 정의
-┣ 📂 imgs # 로고 및 아이콘 리소스
-┗ 📜 README.md # 프로젝트 설명 문서
-
-yaml
-코드 복사
+## 📂 프로젝트 구조  
+📦 airbnb-clone  
+┣ 📜 index.html # 메인 페이지  
+┣ 📜 index.css # 스타일 정의  
+┣ 📂 imgs # 로고 및 아이콘 리소스  
+┗ 📜 README.md # 프로젝트 설명 문서  
 
 ---
 
